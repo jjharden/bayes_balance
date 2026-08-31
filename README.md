@@ -35,4 +35,4 @@ If you use this code, please cite the accompanying paper:
 
 > Harden, Jeffrey J. 2026. "A Falsification Framework for Investigating Observed Covariate Balance." Forthcoming, *Observational Studies*. 
 > 
-> [**Read the preprint here**](https://jharden.nd.edu/assets/658592/balance.pdf).
+> > <a href="https://jharden.nd.edu/assets/658592/balance.pdf" target="_blank"><strong>Read the preprint here</strong></a>.
