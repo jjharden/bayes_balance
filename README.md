@@ -25,6 +25,7 @@ Run the following in your R session to download the script into your working dir
 ```r
 download.file("https://raw.githubusercontent.com/jjharden/bayes_balance/main/bayes_balance.R", destfile = "bayes_balance.R")
 file.edit("bayes_balance.R")
+```
 
 ## Citation
 
