@@ -1,6 +1,6 @@
 # Bayesian Bootstrap Covariate Balance Falsification Framework for Observational Studies
 
-<img src="example_plot.png" alt="Bayesian Bootstrap Balance Plot" width="600">
+<img src="example_plot.png" alt="Bayesian Bootstrap Balance Plot" width="800">
 
 An R implementation for evaluating covariate balance using Bayesian bootstrap posterior distributions. Designed for matching, weighting, and natural experiment settings in quantitative social science.
 
