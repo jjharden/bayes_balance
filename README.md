@@ -23,7 +23,7 @@ install.packages(c("bayesboot", "cobalt", "MatchIt", "tidyverse", "ggridges"))
 You can load and run the script directly into your R session from GitHub:
 
 ```r
-source("[https://raw.githubusercontent.com/jjharden/bayes_balance/main/bayes_balance.R](https://raw.githubusercontent.com/jjharden/bayes_balance/main/bayes_balance.R)")
+source("https://raw.githubusercontent.com/jjharden/bayes_balance/main/bayes_balance.R")
 ```
 
 ## Citation
