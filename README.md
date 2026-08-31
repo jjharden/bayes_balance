@@ -1,6 +1,6 @@
 # Bayesian Bootstrap Falsification Framework for Observational Studies
 
-An R implementation for evaluating covariate balance using Bayesian bootstrap posterior distributions. Designed for matching and natural experiment settings in quantitative social science.
+An R implementation for evaluating covariate balance using Bayesian bootstrap posterior distributions. Designed for matching, weighting, and natural experiment settings in quantitative social science.
 
 ## Overview
 
@@ -20,14 +20,11 @@ install.packages(c("bayesboot", "cobalt", "MatchIt", "tidyverse", "ggridges"))
 
 ## Quick Start
 
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/jjharden/bayes_balance.git](https://github.com/jjharden/bayes_balance.git)
-   ```
-2. Open `bayes_balance.R` in RStudio or run:
-   ```r
-   source("bayes_balance.R")
-   ```
+You can load and run the script directly into your R session from GitHub:
+
+```r
+source("[https://raw.githubusercontent.com/jjharden/bayes_balance/main/bayes_balance.R](https://raw.githubusercontent.com/jjharden/bayes_balance/main/bayes_balance.R)")
+```
 
 ## Citation
 
