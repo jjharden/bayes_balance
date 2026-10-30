@@ -36,3 +36,7 @@ If you use this code, please cite the accompanying paper:
 > Harden, Jeffrey J. 2026. "A Falsification Framework for Investigating Observed Covariate Balance." Forthcoming, *Observational Studies*. 
 > 
 > [**Read the preprint here**](https://jharden.nd.edu/assets/658592/balance.pdf).
+
+## Statement on Artificial Intelligence (AI) Use
+
+I employed the Gemini family of Large Language Models to evaluate conceptual ideas, assist with coding, and suggest language edits to improve readability of the paper associated with this work. I maintained full intellectual oversight on the project throughout the entire research process and take full responsibility for all code, ideas, and output.
